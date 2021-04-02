@@ -1,1 +1,1 @@
-# Javascrip-Slider
+# Javascript-Slider
