@@ -7,10 +7,10 @@ var images = [
     './Images/usx3Me.jpg'
 ]
 var seasons = [
-    "Spring",
-    "Summer",
-    "Autumn",
-    "Winter"
+    "I'm Nazar... ",
+    "Here for you for ...",
+    "CSS Preparation",
+    "PMS Preparation"
 ]
 var season_h1 = document.getElementById('season')
 var i = 0;
